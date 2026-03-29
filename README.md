@@ -1,2 +1,51 @@
-# LibreOffice-CaseStudy
-Case study on LibreOffice and open source governance
+# LibreOffice Case Study: A Crisis of Trust in Open Source
+
+## Student Details
+
+Name: Simran Kumari
+Registration Number: 24BCG10075
+Course: Open Source Software
+
+## Section A: Establishing the Context
+OpenOffice.org was one of the earliest and most successful open-source office suites. It originated when Sun Microsystems released the source code of StarOffice to the public in order to provide a free alternative to proprietary software like Microsoft Office. This decision helped millions of users, especially in developing countries, gain access to office productivity tools without paying high licensing fees. Over time, OpenOffice.org gained popularity and developed a large community of contributors including developers, testers, translators, and documentation writers.
+However, despite being open source, OpenOffice.org had a structural problem related to governance. Sun Microsystems maintained strong control over the project. Contributors were required to sign a copyright assignment agreement, which meant that any code they contributed would be jointly owned by Sun. While this arrangement allowed Sun to manage the project legally, it created discomfort among contributors because they were not the primary decision-makers.
+In addition, Sun controlled the release schedule, roadmap, and final decisions regarding which features would be included. This meant that even though the community contributed significantly, they had limited authority in shaping the direction of the project. This created a situation where the project was legally open but practically centralized.
+This tension existed for several years but did not immediately lead to conflict because Sun was generally seen as a supportive and relatively trustworthy company in the open-source ecosystem. However, the situation changed dramatically in 2010 when Oracle Corporation acquired Sun Microsystems.
+Oracle was known for its strong focus on commercial interests and strict control over intellectual property. After the acquisition, many contributors became concerned about the future of OpenOffice.org. Oracle continued the same governance structure but did not maintain strong communication with the community. Decisions became less transparent, and contributors began to feel excluded.
+The main issue was not that Oracle made drastic changes, but that trust started to decline. Contributors feared that their work could be used for commercial purposes without their consent, especially because of the existing copyright assignment system. This situation highlighted an important distinction between legal openness and practical openness. While the code was still open source, the governance model limited the community’s influence.
+As a result, a group of contributors decided to take action. In 2010, they created The Document Foundation and launched LibreOffice as a fork of OpenOffice.org. Their goal was to establish a truly community-driven project with transparent governance and no requirement for copyright assignment.
+
+## Section B: The Ethics of Corporate Control
+The LibreOffice case raises important ethical questions about the role of corporations in open-source projects. In my opinion, corporate investment does not justify complete control over such projects.
+On one hand, companies like Sun and Oracle invest significant resources in open-source development. They provide infrastructure, funding, and paid developers. Without such support, many large-scale projects would struggle to grow. Therefore, it is reasonable for companies to expect some level of influence or control.
+However, open source is fundamentally based on community participation. Many contributors work voluntarily, contributing their time and skills without direct financial compensation. Their motivation often comes from learning, reputation, and the desire to contribute to a shared resource. When a corporation gains ownership over their contributions and controls the project entirely, it creates a power imbalance.
+The copyright assignment requirement is a key ethical issue in this case. By requiring contributors to sign over rights, the company gains legal authority over community-generated work. This can be problematic because contributors may not fully understand the long-term implications of such agreements. Under Sun, this system was tolerated because contributors trusted the company’s intentions. Under Oracle, the same system became a source of concern because trust was lacking.
+This demonstrates that ethical considerations in open source go beyond legal frameworks. Trust plays a critical role. Even if a system is legally valid, it may still be perceived as unfair if it concentrates power in the hands of a single entity.
+Another important concept is the distinction between ownership and stewardship. Ownership implies control and authority, while stewardship implies responsibility and accountability. In open-source projects, companies should ideally act as stewards. They should support the project, contribute resources, and help guide development, but not dominate it.
+From an ethical perspective, open-source projects should maintain a balance between corporate involvement and community control. Contributors should retain rights to their work, and governance should be transparent and inclusive. This ensures that the project remains aligned with the principles of openness and collaboration.
+
+## Section C: The Forking Question
+Forking is one of the fundamental freedoms of open source. It allows developers to take an existing codebase and create a new project if they are dissatisfied with the current governance. However, forking is not an easy decision.
+In the case of OpenOffice.org, the community faced a difficult choice. They could either continue working under Oracle’s control or create a new independent project. Both options had risks. Staying meant accepting limited control and potential future conflicts. Forking meant starting from scratch, dividing the community, and potentially confusing users.
+Some might argue that the community should have stayed and tried to reform the project from within. Negotiation with Oracle could have been an option. However, this approach depended on Oracle’s willingness to cooperate. Given Oracle’s actions and communication style, many contributors believed that meaningful reform was unlikely.
+From a business perspective, Oracle’s decision to maintain control over OpenOffice.org was logical. It viewed the project as a valuable asset and wanted to protect its commercial interests. However, from an ethical perspective, this decision ignored the concerns of the community and weakened trust.
+An argument against forking is that it creates fragmentation. Users may not know which version to use, and development efforts may be duplicated. This can slow down progress and reduce overall efficiency.
+However, this argument overlooks the importance of trust and autonomy. Without trust, contributors are less likely to remain active. A project without an engaged community cannot sustain long-term growth. In this case, forking allowed the community to regain control and establish a governance model that aligned with their values.
+Although the fork caused short-term disruption, it proved successful in the long run. LibreOffice quickly gained support from major Linux distributions and became the dominant open-source office suite. This suggests that the decision to fork, while risky, was ultimately beneficial.
+
+## Section D: Lessons and Generalisation
+The LibreOffice case provides valuable lessons for the broader open-source ecosystem. One important observation is that this situation was not unique. A similar event occurred with MySQL, which was also acquired by Oracle. Its creator, Michael Widenius, forked it into MariaDB due to concerns about corporate control.
+The fact that two major projects experienced similar outcomes suggests a pattern. Corporate ownership can sometimes conflict with the principles of open source, particularly when it comes to governance and trust.
+This case also highlights the importance of governance structures. Legal openness alone is not sufficient. A project may be open source in terms of licensing but still function like a proprietary system if decision-making is centralized.
+In a hypothetical scenario where a company contributes most of the code and controls governance, the situation can be similar to OpenOffice.org. The key question is whether the company allows meaningful participation from the community. If governance is transparent and inclusive, the project can remain healthy. If not, it may face similar challenges.
+To prevent such situations, new open-source projects should adopt clear governance models. These include establishing independent foundations, avoiding mandatory copyright assignment, ensuring transparent decision-making, and limiting the influence of any single entity.
+Such measures help maintain a balance between corporate support and community independence, which is essential for long-term success.
+
+## Section E: Reflection
+Before studying this case, I believed that open source simply meant free software that anyone could use and modify. However, this case has changed my understanding significantly. I now realize that governance, control, and trust are equally important aspects of open source.
+One aspect that surprised me was how contributors could lose control over their own work. Even though they contributed voluntarily, a company could gain ownership and make decisions without their input. This raises important questions about fairness and ethics.
+The LibreOffice community chose to prioritize principles over convenience. They were willing to take risks and face uncertainty in order to build a project that they could control. I believe this was the right decision because long-term success depends on trust and collaboration.
+If I were in their position, I would have made the same choice. Without fair governance, contributors may lose motivation, and the project may eventually decline. Open source should empower communities, not restrict them.
+
+## Conclusion
+The LibreOffice fork demonstrates that open source is not just about access to code but also about governance, trust, and fairness. A project may be legally open but still lack true openness if control is centralized. The success of LibreOffice shows that community-driven governance is more sustainable and better aligned with the values of open source.
